@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextChainingExample", "ContextChainingExample\ContextChainingExample.csproj", "{46EFF02A-2C67-46A3-AA28-3A0A5E8D9D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46EFF02A-2C67-46A3-AA28-3A0A5E8D9D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EFF02A-2C67-46A3-AA28-3A0A5E8D9D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EFF02A-2C67-46A3-AA28-3A0A5E8D9D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EFF02A-2C67-46A3-AA28-3A0A5E8D9D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E0B62A-4016-4FEA-BEEA-AFB921584AF1}
+	EndGlobalSection
+EndGlobal
